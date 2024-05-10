@@ -2,6 +2,14 @@
 
 This is a simple Task Management Application built with React.js for the front-end and Django for the back-end.
 
+## Features
+Create tasks with titles, descriptions, and due dates.
+Mark tasks as completed.
+Edit and delete tasks.
+Filter tasks based on status (completed/incomplete).
+Sort tasks by due date or creation date.
+User authentication and authorization.
+
 ## Running the Application Locally
 
 ### Frontend (React.js)
